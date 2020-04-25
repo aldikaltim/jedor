@@ -1,5 +1,5 @@
 <?php
-+++++++KUATMLARAT++++++
+//+++++++KUATMLARAT++++++
 
 include 'tri_req.php';
 
